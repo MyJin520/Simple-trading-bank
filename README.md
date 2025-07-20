@@ -1,5 +1,5 @@
 ## 项目结构
-go-store/
+~~~txt go-store/
 ├── api/          # 路由层
 │   └── v1/       # 接口版本
 ├── service/      # 业务逻辑层
@@ -11,3 +11,4 @@ go-store/
 │   ├── mytools/  # 加密/JWT/日志
 │   └── e/        # 错误码
 └── conf/         # 配置管理
+
