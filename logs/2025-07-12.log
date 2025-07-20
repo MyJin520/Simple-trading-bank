@@ -1,0 +1,6 @@
+time="2025-07-12 11:03:45" level=info msg="err:  record not found"
+time="2025-07-12 15:35:50" level=info msg="err:  strconv.ParseFloat: parsing \"\": invalid syntax"
+time="2025-07-12 15:37:34" level=info msg="err:  strconv.ParseFloat: parsing \"\": invalid syntax"
+time="2025-07-12 15:37:56" level=info msg="err:  strconv.ParseFloat: parsing \"\": invalid syntax"
+time="2025-07-12 15:58:48" level=info msg="err:  illegal base64 data at input byte 0"
+time="2025-07-12 16:02:31" level=info msg="err:  strconv.ParseFloat: parsing \"\": invalid syntax"

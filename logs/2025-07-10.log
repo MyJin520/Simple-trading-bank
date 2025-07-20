@@ -1,0 +1,5 @@
+time="2025-07-10 12:49:28" level=info msg="err:  invalid field found for struct go-store/model.Favorites's field MerchantName: define a valid foreign key for relations or implement the Valuer/Scanner interface"
+time="2025-07-10 12:49:33" level=info msg="err:  invalid field found for struct go-store/model.Favorites's field MerchantName: define a valid foreign key for relations or implement the Valuer/Scanner interface"
+time="2025-07-10 12:49:35" level=info msg="err:  invalid field found for struct go-store/model.Favorites's field MerchantName: define a valid foreign key for relations or implement the Valuer/Scanner interface"
+time="2025-07-10 13:20:22" level=info msg="err:  record not found"
+time="2025-07-10 13:21:23" level=info msg="err:  record not found"
